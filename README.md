@@ -6,6 +6,6 @@ Nonuniform array geometries provide freedom for increased aperture and reduced m
 * Rizwan Ahmad, The Ohio State University (ahmad.46@osu.edu)
 * Lee C. Potter, The Ohio State University (potter.36@osu.edu)
 
-The codes for generating the figures for the paper is included.
+The codes for generating the figures in the paper is included.
 
 ## Reference
